@@ -3,8 +3,10 @@
 --
 
 - 🌱 I’m currently learning ...
-- 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=appveyor&logoColor=3776AB"/></a>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style={plastic&logo=appveyor&logoColor=3776AB"/>
+
+
 - ✨
 
 
