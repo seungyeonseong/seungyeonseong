@@ -4,8 +4,8 @@
 
 🌱 I’m currently learning ...
 
-<img src="https://img.shields.io/badge/Python-000000?style={plastic&logo=appveyor&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/R-000000?style={plastic&logo=appveyor&logoColor=276DC3"/>
+<img src="https://img.shields.io/badge/Python-000000?style={plastic&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/R-000000?style={plastic&logo=R&logoColor=276DC3"/>
 
 - ✨
 
