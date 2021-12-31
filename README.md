@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Python-FFFFFF?style={plastic&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/R-276DC3?style={plastic&logo=R&logoColor=FFFFFF"/>
 
-- ✨
+✨
 
 
 
