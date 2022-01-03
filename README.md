@@ -4,6 +4,7 @@
 
 
 ✨ I’m currently learning : <img src="https://img.shields.io/badge/Python-FFFFFF?style={plastic&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/R-FFFFFF?style={plastic&logo=R&logoColor=276DC3"/> <img src="https://img.shields.io/badge/RStudio-FFFFFF?style={plastic&logo=RStudio&logoColor=75AADB"/> <img src="https://img.shields.io/badge/MySQL-FFFFFF?style={plastic&logo=MySQL&logoColor=4479A1"/>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syseong0)](https://solved.ac/syseong0)
 <a href="https://seungyeonseong.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
